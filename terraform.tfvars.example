@@ -1,0 +1,15 @@
+# Archivo de ejemplo para personalizar variables
+# Descomenta y modifica los valores según tus necesidades
+
+# Configuración de Nginx
+# nginx_container_name = "mi-nginx-personalizado"
+# nginx_external_port  = 8080
+
+# Configuración de MySQL
+# mysql_container_name = "mi-mysql-personalizado"
+# mysql_external_port  = 3307
+# mysql_database      = "mi_base_datos"
+# mysql_user          = "mi_usuario"
+
+# Configuración general
+# environment = "production"
